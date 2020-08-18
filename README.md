@@ -1,8 +1,7 @@
 # Matplotlib Challenge - The Power of Plots
 
 ## Background
-
-As Chief Data Analyst, I was given access to the complete data from the most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. 
+In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. 
 
 My objective was to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
